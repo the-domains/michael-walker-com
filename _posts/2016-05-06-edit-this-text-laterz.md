@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T19:10:07.913Z'
-dateModified: '2016-05-06T19:10:07.536Z'
+datePublished: '2016-05-06T19:14:31.723Z'
+dateModified: '2016-05-06T19:14:07.451Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-06-edit-this-text-laterz.md
@@ -21,5 +21,4 @@ url: edit-this-text-laterz/index.html
 _type: Article
 
 ---
-* V/O Narration - Commercials, Corporates, Tv, Radio, Cinema & Web
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fad685e-3ff9-42af-bc86-2cc71cdaa06c.jpg)
