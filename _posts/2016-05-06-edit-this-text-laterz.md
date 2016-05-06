@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T21:09:33.002Z'
-dateModified: '2016-05-06T21:09:29.656Z'
+datePublished: '2016-05-06T21:10:22.506Z'
+dateModified: '2016-05-06T21:10:22.084Z'
 title: ''
 author:
   - name: ''
@@ -30,5 +30,5 @@ _type: Article
 * +44 (0) 78474321
 * reel@ http://www.maplestreetvoices.co.uk/?talent=michael-walker
 
-Multi camera Direction/Mixing - Live Events, Broadcast, Webcast
+# Multi camera Direction/Mixing - Live Events, Broadcast, Webcast
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7ca7a9-218b-48bd-9ffe-ba27296f7ae4.jpg)
