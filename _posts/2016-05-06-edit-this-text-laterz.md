@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: EDIT THIS TEXT LATERZ
-datePublished: '2016-05-06T18:55:15.721Z'
-dateModified: '2016-05-06T18:55:15.069Z'
+description: ''
+datePublished: '2016-05-06T19:10:07.913Z'
+dateModified: '2016-05-06T19:10:07.536Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-edit-this-text-laterz.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-edit-this-text-laterz.md
 url: edit-this-text-laterz/index.html
 _type: Article
 
 ---
-EDIT THIS TEXT LATERZ
+* V/O Narration - Commercials, Corporates, Tv, Radio, Cinema & Web
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fad685e-3ff9-42af-bc86-2cc71cdaa06c.jpg)
