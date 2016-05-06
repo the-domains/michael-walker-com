@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T20:20:09.610Z'
-dateModified: '2016-05-06T20:19:34.905Z'
+datePublished: '2016-05-06T21:09:33.002Z'
+dateModified: '2016-05-06T21:09:29.656Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-06-edit-this-text-laterz.md
 authors: []
 publisher:
@@ -21,12 +23,12 @@ url: edit-this-text-laterz/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d192338e4297aa2fee6cfc92262bb21c5363c3af.jpg)
+
 * Voice Over & Narration
 * Commercials, Corporates, TV, Radio, Cinema & Web. 
 * +44 (0) 78474321
 * reel@ http://www.maplestreetvoices.co.uk/?talent=michael-walker
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fad685e-3ff9-42af-bc86-2cc71cdaa06c.jpg)
 
-  
 Multi camera Direction/Mixing - Live Events, Broadcast, Webcast
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af7ca7a9-218b-48bd-9ffe-ba27296f7ae4.jpg)
