@@ -1,7 +1,7 @@
 name: Michael-Walker.com
 favicon: null
 layout_spectrum: 0.51423
-typography_spectrum: 0.64458
+typography_spectrum: 0.51125
 title: mwcom welcome
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#426fbe'
     - '#c72824'
   brandStrength: 0.375
-  lightness: 0.3125
+  lightness: 0.5625
   saturation: 0.9375
   rhythmicContrast: 0.25
 purpose: []
