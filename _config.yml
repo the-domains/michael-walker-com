@@ -45,4 +45,7 @@ purpose:
   - type: contact
     url: 'tel:07847414321'
     label: Call 07847414321
+  - type: contact
+    url: 'mailto:michaeljwalker@me.com'
+    label: email me
 github: true
