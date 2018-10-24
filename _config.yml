@@ -1,29 +1,48 @@
-name: Welcome to Michael-Walker.com
-favicon: null
-layout_spectrum: 0.75737
-typography_spectrum: 0.51125
-title: welcome to michael-walker.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.6877686279454259
+color:
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.9375524167784739
+  lightness: 0.2971371139308419
+  saturation: 0.83950284972833
+  rhythmicContrast: 0.014711736261033186
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d5bca6'
-    - '#58533d'
-    - '#80884c'
-    - '#426fbe'
-    - '#c72824'
-  brandStrength: 0.875
-  lightness: 0.3125
-  saturation: 0.9375
-  rhythmicContrast: 0.75
-purpose: []
+layout_spectrum: 0.9991352681975147
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: xuph danmi films limited
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Production
+    id: 89a1f258-230b-473e-a43a-2ffea5a26eca
+    type: content
+  - name: Live Event Multicamera Direction/Vision mixing.
+    id: d85e0951-8786-4884-8ce3-ea40b6269e2f
+    type: content
+  - name: Post Production
+    id: d90616c7-0937-4f48-9e9f-4690a99759bf
+    type: content
+  - name: Voiceover & Narration
+    id: 993fdae2-2865-46e4-8515-e8e424a3a380
+    type: content
+favicon: null
+title: Film Production for every Screen
+content: []
+description: in this strange world of ours
+purpose:
+  - type: contact
+    url: 'tel:07847414321'
+    label: Call 07847414321
+github: true
